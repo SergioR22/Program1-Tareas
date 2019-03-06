@@ -1,0 +1,6 @@
+C:\Users\Lab3\Desktop\Sergio\SolucionInicial\Proyecto001\bin\Debug\Proyecto001.exe.config
+C:\Users\Lab3\Desktop\Sergio\SolucionInicial\Proyecto001\obj\Debug\Proyecto001.csprojResolveAssemblyReference.cache
+C:\Users\Lab3\Desktop\Sergio\SolucionInicial\Proyecto001\bin\Debug\Proyecto001.exe
+C:\Users\Lab3\Desktop\Sergio\SolucionInicial\Proyecto001\bin\Debug\Proyecto001.pdb
+C:\Users\Lab3\Desktop\Sergio\SolucionInicial\Proyecto001\obj\Debug\Proyecto001.exe
+C:\Users\Lab3\Desktop\Sergio\SolucionInicial\Proyecto001\obj\Debug\Proyecto001.pdb
